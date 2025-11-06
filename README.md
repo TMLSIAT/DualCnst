@@ -270,7 +270,18 @@ We evaluate OOD detection performance using three standard metrics:
 
 
 ---
+## Citation
 
+If you find this work helpful, please consider citing our paper:
+
+```bibtex
+@inproceedings{dualcnst2025,
+  title={DualCnst: Enhancing Zero-Shot Out-of-Distribution Detection via Text-Image Consistency in Vision-Language Models},
+  author={Your Name and Co-authors},
+  booktitle={Advances in Neural Information Processing Systems (NeurIPS)},
+  year={2025}
+}
+```
 ## Acknowledgments
 
 This work builds upon several excellent open-source projects:

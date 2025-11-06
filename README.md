@@ -55,12 +55,6 @@ This project requires **two separate conda environments**:
 1. **`ood`** environment - For OOD label selection and detection inference
 2. **`sd`** environment - For image generation using Stable Diffusion
 
-#### System Requirements
-
-- **OS**: Ubuntu Linux 20.04+ (tested)
-- **CUDA**: 11.8+
-- **GPU**: NVIDIA GPU with at least 16GB VRAM
-- **Conda/Miniconda**: Required for environment management
 
 #### Step 1: Create the OOD Environment
 

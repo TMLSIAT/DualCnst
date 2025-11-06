@@ -278,7 +278,7 @@ If you find this work helpful, please consider citing our paper:
 @inproceedings{dualcnst2025,
   title={DualCnst: Enhancing Zero-Shot Out-of-Distribution Detection via Text-Image Consistency in Vision-Language Models},
   author={Your Name and Co-authors},
-  booktitle={Advances in Neural Information Processing Systems (NeurIPS)},
+  booktitle={Advances in Neural Information Processing Systems},
   year={2025}
 }
 ```

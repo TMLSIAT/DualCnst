@@ -116,18 +116,6 @@ pip install torch==2.7.1+cu118 torchvision==0.22.1+cu118 --extra-index-url https
 pip install diffusers transformers accelerate modelscope
 ```
 
-</details>
-
-### ⚠️ Important Note on CLIP Installation
-
-**Our implementation uses PyTorch hooks to extract intermediate layer features from CLIP, which means you do NOT need to modify any CLIP source code.** Simply install CLIP using the standard method:
-
-```bash
-pip install git+https://github.com/openai/CLIP.git
-```
-
-The intermediate feature extraction is handled transparently by our `utils/clip_hooks.py` module, ensuring full reproducibility without modifying any third-party libraries.
-
 ---
 
 ## Data Preparation

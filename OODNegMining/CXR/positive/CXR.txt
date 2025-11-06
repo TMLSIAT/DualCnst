@@ -1,0 +1,12 @@
+the nice atelectasis
+the nice edema
+the nice enlarged cardiomediastinum
+the nice fracture
+the nice lung lesion
+the nice lung opacity
+the nice no finding
+the nice pleural effusion
+the nice pleural other
+the nice pneumonia
+the nice pneumothorax
+the nice support devices

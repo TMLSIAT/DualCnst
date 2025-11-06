@@ -1,0 +1,100 @@
+the nice Laysan Albatross
+the nice Groove billed Ani
+the nice Crested Auklet
+the nice Parakeet Auklet
+the nice Rusty Blackbird
+the nice Bobolink
+the nice Indigo Bunting
+the nice Painted Bunting
+the nice Spotted Catbird
+the nice Yellow breasted Chat
+the nice Eastern Towhee
+the nice Chuck will Widow
+the nice Red faced Cormorant
+the nice Pelagic Cormorant
+the nice Bronzed Cowbird
+the nice Shiny Cowbird
+the nice American Crow
+the nice Purple Finch
+the nice Acadian Flycatcher
+the nice Olive sided Flycatcher
+the nice Scissor tailed Flycatcher
+the nice Yellow bellied Flycatcher
+the nice Frigatebird
+the nice Gadwall
+the nice American Goldfinch
+the nice Boat tailed Grackle
+the nice Eared Grebe
+the nice Horned Grebe
+the nice Pied billed Grebe
+the nice Blue Grosbeak
+the nice Evening Grosbeak
+the nice Pine Grosbeak
+the nice Rose breasted Grosbeak
+the nice Pigeon Guillemot
+the nice Glaucous winged Gull
+the nice Herring Gull
+the nice Ivory Gull
+the nice Ring billed Gull
+the nice Anna Hummingbird
+the nice Pomarine Jaeger
+the nice Blue Jay
+the nice Green Jay
+the nice Gray Kingbird
+the nice Ringed Kingfisher
+the nice Red legged Kittiwake
+the nice Horned Lark
+the nice Western Meadowlark
+the nice Red breasted Merganser
+the nice White breasted Nuthatch
+the nice Hooded Oriole
+the nice Orchard Oriole
+the nice Ovenbird
+the nice Western Wood Pewee
+the nice Sayornis
+the nice Whip poor Will
+the nice White necked Raven
+the nice Great Grey Shrike
+the nice Brewer Sparrow
+the nice Chipping Sparrow
+the nice Clay colored Sparrow
+the nice House Sparrow
+the nice Fox Sparrow
+the nice Grasshopper Sparrow
+the nice Henslow Sparrow
+the nice Le Conte Sparrow
+the nice Savannah Sparrow
+the nice Vesper Sparrow
+the nice Bank Swallow
+the nice Cliff Swallow
+the nice Scarlet Tanager
+the nice Black Tern
+the nice Caspian Tern
+the nice Brown Thrasher
+the nice Sage Thrasher
+the nice Black capped Vireo
+the nice Blue headed Vireo
+the nice Philadelphia Vireo
+the nice Warbling Vireo
+the nice Yellow throated Vireo
+the nice Black throated Blue Warbler
+the nice Blue winged Warbler
+the nice Cape May Warbler
+the nice Golden winged Warbler
+the nice Hooded Warbler
+the nice Magnolia Warbler
+the nice Myrtle Warbler
+the nice Orange crowned Warbler
+the nice Palm Warbler
+the nice Pine Warbler
+the nice Prothonotary Warbler
+the nice Swainson Warbler
+the nice Tennessee Warbler
+the nice Worm eating Warbler
+the nice Northern Waterthrush
+the nice Cedar Waxwing
+the nice Red bellied Woodpecker
+the nice Downy Woodpecker
+the nice Bewick Wren
+the nice House Wren
+the nice Common Yellowthroat

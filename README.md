@@ -66,13 +66,6 @@ conda env create -f ood.yml
 conda activate ood
 ```
 
-**Key packages in `ood` environment:**
-- Python 3.8.20
-- PyTorch 2.7.1+cu118
-- torchvision 0.22.1+cu118
-- CLIP 1.0 (OpenAI)
-- transformers 4.54.0
-- numpy, scipy, scikit-learn, matplotlib, pandas
 
 #### Step 2: Create the SD Environment
 
@@ -84,12 +77,6 @@ conda env create -f sd.yml
 conda activate sd
 ```
 
-**Key packages in `sd` environment:**
-- Python 3.10.18
-- PyTorch 2.7.1+cu118
-- diffusers 0.34.0
-- transformers 4.54.0
-- modelscope 1.28.1
 
 #### Manual Installation
 
